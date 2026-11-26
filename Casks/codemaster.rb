@@ -1,6 +1,6 @@
 cask "codemaster" do
-  version "1.0.16"
-  sha256 "447f2e18d50737376dab8f72ef588df6029076e82006d02e75302796148f8302"
+  version "1.0.18"
+  sha256 "0a66688dcd2f7e51ea7728b73687eec7a8ffa5a13babc7c29bfcc59dae718cdc"
 
   url "https://github.com/Rodrick4810/codemaster-releases/releases/download/v#{version}/Codemaster-#{version}.dmg"
   name "Codemaster"
